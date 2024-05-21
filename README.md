@@ -39,7 +39,7 @@ The analysis focuses on:
 
 ## Running the Code
  **Install Required Libraries:**
-    ```bash
+
        pip install numpy pandas matplotlib seaborn plotly gender-guesser scikit-learn cufflinks
 
 ## Conclusion
